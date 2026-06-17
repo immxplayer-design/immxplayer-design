@@ -1,9 +1,9 @@
- Hi
+ Hi, I'm Vlad 
 
  Python Developer & Telegram Bot Developer
 
 I build custom Telegram bots using Python and aiogram.
-
+ 
  Skills
 
 - Python
